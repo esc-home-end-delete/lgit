@@ -4,7 +4,7 @@ Quickly create repositories on your own git server
 ## Linux
 Follow these commands:
 ```
-git clone 
+git clone https://github.com/esc-home-end-delete/lgit
 cd lgit
 pip install -r requirements.txt
 echo alias lgit=python $(pwd)/lgit.py >> ~/.bashrc
